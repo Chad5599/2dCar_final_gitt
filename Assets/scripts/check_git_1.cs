@@ -12,6 +12,10 @@ public class check_git_1 : MonoBehaviour {
 
 
 		print ("A little change for the clone");
+
+
+
+		print ("I am doing changes in new branch named myFirstBranch");
 	}
 	
 	// Update is called once per frame
