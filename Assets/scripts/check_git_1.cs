@@ -4,29 +4,18 @@ using UnityEngine;
 
 public class check_git_1 : MonoBehaviour {
 
-	// Use this for initialization
 	void Start () {
 
 
-		print ("[1] I am just checking git");
-
-
-		print ("A little change for the clone");
-
-
-
-
-		print ("I am doing changes in new branch named myFirstBranch");
-
-		print ("I am adding 1st change in myFirstBranch");
+		print ("I am start myFirstBranch");
 
 
 
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-		
+		print ("I am update myFirstBranch");
 	}
 
 
