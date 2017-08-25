@@ -20,7 +20,7 @@ public class check_git_1 : MonoBehaviour {
 
 		print ("I am adding 1st change in myFirstBranch");
 
-		print ("[1] I am proceeding with the master ");
+
 
 	}
 	
