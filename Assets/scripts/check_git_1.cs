@@ -9,6 +9,9 @@ public class check_git_1 : MonoBehaviour {
 
 
 		print ("[1] I am just checking git");
+
+
+		print ("A little change for the clone");
 	}
 	
 	// Update is called once per frame
