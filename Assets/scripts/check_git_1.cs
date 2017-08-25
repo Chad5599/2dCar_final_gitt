@@ -8,7 +8,7 @@ public class check_git_1 : MonoBehaviour {
 	void Start () {
 
 
-		print ("I am start master");
+
 
 
 
@@ -16,7 +16,7 @@ public class check_git_1 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		print ("I am update master");
+		
 	}
 
 
