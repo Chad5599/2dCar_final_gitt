@@ -15,8 +15,11 @@ public class check_git_1 : MonoBehaviour {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 		print ("[1] I am proceeding with the master ");
 =======
+=======
+>>>>>>> myFirstBranch
 
 
 		print ("I am doing changes in new branch named myFirstBranch");
@@ -25,6 +28,9 @@ public class check_git_1 : MonoBehaviour {
 
 
 
+<<<<<<< HEAD
+>>>>>>> myFirstBranch
+=======
 >>>>>>> myFirstBranch
 	}
 	
