@@ -12,6 +12,9 @@ public class check_git_1 : MonoBehaviour {
 
 
 		print ("A little change for the clone");
+
+
+		print ("[1] I am proceeding with the master ");
 	}
 	
 	// Update is called once per frame
